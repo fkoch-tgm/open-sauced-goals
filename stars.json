@@ -1,33 +1,33 @@
 [
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 26531,
+    "stargazers_count": 26637,
     "open_issues_count": 815,
-    "forks_count": 2179
+    "forks_count": 2189
   },
   {
     "full_name": "matomo-org/matomo",
-    "stargazers_count": 16930,
-    "open_issues_count": 2135,
-    "forks_count": 2383
+    "stargazers_count": 16942,
+    "open_issues_count": 2143,
+    "forks_count": 2385
   },
   {
     "full_name": "SamKirkland/FTP-Deploy-Action",
-    "stargazers_count": 2028,
-    "open_issues_count": 68,
+    "stargazers_count": 2035,
+    "open_issues_count": 69,
     "forks_count": 239
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 15202,
-    "open_issues_count": 825,
-    "forks_count": 957
+    "stargazers_count": 15326,
+    "open_issues_count": 841,
+    "forks_count": 974
   },
   {
     "full_name": "TeamNewPipe/NewPipe",
-    "stargazers_count": 21426,
-    "open_issues_count": 1240,
-    "forks_count": 2482
+    "stargazers_count": 21474,
+    "open_issues_count": 1251,
+    "forks_count": 2496
   },
   {
     "full_name": "m3o/m3o",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "frappe/erpnext",
-    "stargazers_count": 12084,
-    "open_issues_count": 2015,
-    "forks_count": 4897
+    "stargazers_count": 12113,
+    "open_issues_count": 1831,
+    "forks_count": 4909
   },
   {
     "full_name": "dani-garcia/vaultwarden",
-    "stargazers_count": 19374,
+    "stargazers_count": 19437,
     "open_issues_count": 17,
-    "forks_count": 1002
+    "forks_count": 1006
   },
   {
     "full_name": "d0c-s4vage/lookatme.contrib.render",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "TranslucentTB/TranslucentTB",
-    "stargazers_count": 10019,
-    "open_issues_count": 111,
-    "forks_count": 899
+    "stargazers_count": 10033,
+    "open_issues_count": 112,
+    "forks_count": 898
   },
   {
     "full_name": "Micutio/innit",
@@ -67,43 +67,43 @@
   },
   {
     "full_name": "files-community/Files",
-    "stargazers_count": 24759,
-    "open_issues_count": 537,
-    "forks_count": 1554
+    "stargazers_count": 24828,
+    "open_issues_count": 542,
+    "forks_count": 1559
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 111644,
-    "open_issues_count": 198,
-    "forks_count": 11771
+    "stargazers_count": 113168,
+    "open_issues_count": 199,
+    "forks_count": 11879
   },
   {
     "full_name": "stnkl/EverythingToolbar",
-    "stargazers_count": 4568,
+    "stargazers_count": 4580,
     "open_issues_count": 33,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 39999,
-    "open_issues_count": 221,
-    "forks_count": 2473
+    "stargazers_count": 40127,
+    "open_issues_count": 228,
+    "forks_count": 2492
   },
   {
     "full_name": "phanan/htaccess",
-    "stargazers_count": 12175,
+    "stargazers_count": 12179,
     "open_issues_count": 9,
     "forks_count": 1315
   },
   {
     "full_name": "rescuezilla/rescuezilla",
-    "stargazers_count": 658,
-    "open_issues_count": 156,
+    "stargazers_count": 661,
+    "open_issues_count": 157,
     "forks_count": 48
   },
   {
     "full_name": "Askannz/optimus-manager",
-    "stargazers_count": 1801,
+    "stargazers_count": 1802,
     "open_issues_count": 151,
     "forks_count": 144
   },
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "citybound/citybound",
-    "stargazers_count": 7187,
+    "stargazers_count": 7188,
     "open_issues_count": 146,
     "forks_count": 292
   },
   {
     "full_name": "TGM-HIT/latex-protocol",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 6,
     "forks_count": 10
   }
